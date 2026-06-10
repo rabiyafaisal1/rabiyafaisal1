@@ -1,8 +1,27 @@
-Hi, I am Rabiya — a Bs Biotechnology student from Pakistan with a passion for data analytics.
+# Hi, I'm Rabiya 👋
+I'm a Biotechnology student from Pakistan in my final year,
+with a strong interest in data analytics and biological research.
+I love turning messy data into clear, meaningful insights.
 
-I work with Python, R, SQL, and Excel to clean, analyze, and visualize data. My background in biological research gives me a strong foundation in interpreting complex datasets.
+## 🔬 Background
+- BS Biotechnology (Final Year — 2 semesters remaining)
+- Research experience in microbial analysis (S. aureus)
+- Currently building skills in data analytics
 
-I am currently building my data analytics portfolio and looking for remote internship opportunities.
+## 🛠️ Skills
+- **Languages:** Python, R, SQL
+- **Tools:** Excel, Google Sheets
+- **Areas:** Data Cleaning, Exploratory Data Analysis,
+  Data Visualization
 
-Skills: Python | R | SQL | Excel | Data Visualization | Research
-Open to: Remote internships and freelance data projects
+## 🌱 Currently
+- Building my data analytics portfolio
+- Completing Google Data Analytics Certificate
+- Looking for **remote data analyst internship opportunities**
+
+## 📫 Let's connect
+- LinkedIn: [linkedin.com/in/rabiya-faisal]
+- Email: [rabiyafaisal2004@gmail.com]
+
+---
+*Open to remote internships and freelance data projects worldwide*
